@@ -3,7 +3,7 @@
 These lectures are more to do with practical side. Will include a lot of implemented java code.
 Each folder should include basic notes on each topic too.
 
-** Lectures **
+**Lectures**
 
 - [ ] Arrays
 - [ ] TDD
@@ -26,6 +26,8 @@ Each folder should include basic notes on each topic too.
 # Revision for Simon Dobson Lectures
 
 These lectures are a lot more theoretical. Each folder should contain basic notes and maybe some code if it is actually helpful.
+
+**Lectures**
 
 - [ ] Finite Control
 - [ ] Finite State Machine
